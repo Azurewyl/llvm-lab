@@ -56,7 +56,7 @@ https://llvm.org/docs/LangRef.html
 
 
 
-![image-20200508105255589](assets/lab/image-20200508105255589.png)
+![image-20200508105255589](./assets/lab/image-20200508105255589.png)
 
 三段式编译器包括以下三个部分：
 
